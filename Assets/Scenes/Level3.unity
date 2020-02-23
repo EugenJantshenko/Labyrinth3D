@@ -5471,6 +5471,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PauseMenuCanvas
       objectReference: {fileID: 0}
+    - target: {fileID: 7257540969857256877, guid: 34723a5c812f6a34b87335a4acff43f3,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7257540969126447281, guid: 34723a5c812f6a34b87335a4acff43f3,
         type: 3}
       propertyPath: m_Color.r
@@ -5646,6 +5651,31 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 673012962}
+    - target: {fileID: 6462813351661119757, guid: 34723a5c812f6a34b87335a4acff43f3,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6144881292356375243, guid: 34723a5c812f6a34b87335a4acff43f3,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1284295937046870690, guid: 34723a5c812f6a34b87335a4acff43f3,
+        type: 3}
+      propertyPath: m_Value
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5052794472841184565, guid: 34723a5c812f6a34b87335a4acff43f3,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5052794472841184565, guid: 34723a5c812f6a34b87335a4acff43f3,
+        type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 34723a5c812f6a34b87335a4acff43f3, type: 3}
 --- !u!1 &7257540970301565739 stripped

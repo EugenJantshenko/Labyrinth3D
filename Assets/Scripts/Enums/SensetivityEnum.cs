@@ -1,6 +1,6 @@
 ﻿public enum SensetivityEnum 
 {
-   Slow=4,
-	 Medium=8,
-	 Fast=12
+   Slow=10,
+	 Medium=15,
+	 Fast=20
 }

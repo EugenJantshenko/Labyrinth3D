@@ -16,7 +16,7 @@ public class AudioManager : MonoBehaviour
 	void Start()
 	{
 		audioSource = GetComponent<AudioSource>();
-		audioSource.volume = 0.5f;
+		audioSource.volume = 0.4f;
 		audioSource.Play();
 	}
 	#endregion

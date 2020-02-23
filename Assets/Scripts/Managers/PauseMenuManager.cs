@@ -105,6 +105,7 @@ public class PauseMenuManager : MonoBehaviour
 		int scenesCount = SceneManager.sceneCountInBuildSettings;
 		if (SceneManager.GetActiveScene().buildIndex < scenesCount-1)
 		{
+			pauseMenuPanel.SetActive(false);
 		loadingPanel.SetActive(true);
 		StartCoroutine(Delay(1.0f, "Level" + (SceneManager.GetActiveScene().buildIndex + 1).ToString()));
 	  }
